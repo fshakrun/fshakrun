@@ -1,5 +1,18 @@
 # Portfolio-QA (JAVA/PYTHON)
 
+## 👨‍💻 Инструменты
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
 ## 🏆 Сертификаты
 
 Мои сертификаты, полученные на курсах [Python-разработчик с нуля](https://netology.ru/programs/python) и [Тестировщик ПО](https://netology.ru/programs/qa) в Нетологии :
@@ -10,9 +23,9 @@
 * [Базы данных для Python-разработчиков](https://disk.yandex.ru/i/Ev4E_NT4TtIQtQ)
 * [Профессиональная работа с Python](https://drive.google.com/file/d/1NGweFrWr8uWRCClWOPqzQ_KOs_y6okIX/view?usp=sharing)
 
-## 👨‍💻 Выполненные задачи и реализованные проекты
 
-### Тестирование
+## 🚀 Выполненные задачи и реализованные проекты 
+
 
 * **[Курсовая работа по модулю "Ручное тестирование веб-приложений" — Тестирование функционала личного кабинета крупного интернет-магазина](https://github.com/fshakrun/manual-tests-online-shop/blob/main/README.md)**;
 
