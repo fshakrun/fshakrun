@@ -1,5 +1,6 @@
 # Portfolio-QA (JAVA/PYTHON)
 
+## 📃 ПОДРОБНОЕ CV — [Здесь](https://spb.hh.ru/resume/7aaa4776ff0c56220b0039ed1f3052666b7134)
 ## 👨‍💻 Инструменты
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
