@@ -13,18 +13,15 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## 🏆 Пройденные профильные курсы и полученные на них сертификаты
 
-## 🏆 Сертификаты
-
-Мои сертификаты, полученные на курсах [Python-разработчик с нуля](https://netology.ru/programs/python) и [Тестировщик ПО](https://netology.ru/programs/qa) в Нетологии :
-
-* [Ручное тестирование веб-приложений](https://disk.yandex.ru/i/dgXi88k51nCzvw)
-* [Git — система контроля версий](https://disk.yandex.ru/i/jlN6tUtQAezFvQ)
-* [Основы языка программирования Python](https://disk.yandex.ru/i/y2V6L5M1IUSLqw)
-* [Базы данных для Python-разработчиков](https://disk.yandex.ru/i/Ev4E_NT4TtIQtQ)
-* [Профессиональная работа с Python](https://drive.google.com/file/d/1NGweFrWr8uWRCClWOPqzQ_KOs_y6okIX/view?usp=sharing)
-  
-####  ✅ [Свидетельство об успешном окончании курса](https://disk.yandex.ru/i/OoNs9BbpTrYeBw) [Тестировщик ПО в Нетологии](https://netology.ru/programs/qa) 
+✅ [Тестирование ПО: Postman для тестирования API](https://stepik.org/cert/2773089);
+✅ [Docker для начинающих](https://stepik.org/cert/2807744);
+✅ [SQL и получение данных](https://netology.ru/sharing/2d2929c0a0068d789776a73f594f35f3?utm_source=social&utm_campaign=certificate_lms);
+✅ [Основы разработки на Java](https://disk.yandex.ru/i/chtOaW6t4EMRJA);
+✅ [Интерактивный тренажер по SQL](https://stepik.org/cert/2535829);
+✅ [Свидетельство об успешном окончании курса](https://disk.yandex.ru/i/OoNs9BbpTrYeBw) [Тестировщик ПО в Нетологии](https://netology.ru/programs/qa);
+✅ [Свидетельство об успешном окончании курса](https://drive.google.com/drive/folders/14iv9LDOcyXRBLYZKpqJpSZMj73J5YsoD) [Python-разработчик в Нетологии](https://netology.ru/programs/python); 
 
 
 ## 🚀 Выполненные задачи и реализованные проекты 
