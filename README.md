@@ -21,7 +21,7 @@
 ✅ [Основы разработки на Java](https://disk.yandex.ru/i/chtOaW6t4EMRJA)\
 ✅ [Интерактивный тренажер по SQL](https://stepik.org/cert/2535829)\
 ✅ [Свидетельство об успешном окончании курса](https://disk.yandex.ru/i/OoNs9BbpTrYeBw) [Тестировщик ПО в Нетологии](https://netology.ru/programs/qa)\
-✅ [Свидетельство об успешном окончании курса](https://drive.google.com/drive/folders/14iv9LDOcyXRBLYZKpqJpSZMj73J5YsoD) [Python-разработчик в Нетологии](https://netology.ru/programs/python)\
+✅ [Свидетельство об успешном окончании курса](https://drive.google.com/drive/folders/14iv9LDOcyXRBLYZKpqJpSZMj73J5YsoD) [Python-разработчик в Нетологии](https://netology.ru/programs/python)
 
 
 ## 🚀 Выполненные задачи и реализованные проекты 
