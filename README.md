@@ -12,6 +12,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JUnit5](https://img.shields.io)
+![Pytest](https://img.shields.io)
+![Maven](https://img.shields.io)
+![Docker](https://img.shields.io)
+![GitHub Actions](https://img.shields.io)
+![Ubuntu](https://img.shields.io)
+![Ollama](https://img.shields.io)
+![OpenAI](https://img.shields.io)
+
 
 ## 🏆 Пройденные профильные курсы и полученные на них сертификаты
 
