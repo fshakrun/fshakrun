@@ -40,6 +40,9 @@
 * **[Курсовая работа по модулю "Ручное тестирование веб-приложений" — Тестирование функционала личного кабинета крупного интернет-магазина](https://github.com/fshakrun/manual-tests-online-shop/blob/main/README.md)**;
 
 * **PYTHON**
+
+  * [Пример веб-приложения на Python + Flask ля управления пользователями. Также в проекте реализованы API‑тесты с использованием pytest.](https://github.com/fshakrun/FlaskUsersApp)
+
   * [Python + Selenium. Позитивный автотест критического пути на примере крупного онлайн-магазина.](https://github.com/fshakrun/selenium_test_online_shop)
 
   * Тесты на PYTHON (Pytest). [Задача](https://github.com/netology-code/py-homeworks-advanced/tree/master/4.Tests) и её [Решение:](https://github.com/fshakrun/hw_tests)
